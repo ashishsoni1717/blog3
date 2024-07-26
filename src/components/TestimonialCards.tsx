@@ -31,7 +31,7 @@ const TestimonialCards = () => {
           <InfiniteMovingCards
             items={blogTestimonialsData}
             direction="right"
-            speed="slow"
+            speed="fast"
           />
         </div>
       </div>

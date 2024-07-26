@@ -42,8 +42,8 @@ function Bloggers() {
           Meet Our Bloggers
         </h2>
         <p className="text-base md:text-lg text-white text-center mb-4">
-          Discover the talented professionals who will guide your musical
-          journey
+          Discover the talented professionals who will guide you to travel and
+          make your journey memorable
         </p>
         <div className="flex flex-row items-center justify-center mb-10 w-full">
           <AnimatedTooltip items={bloggersData} />
